@@ -1,0 +1,3 @@
+﻿交易日期 : Transaction_date
+種類代碼 : Type_code
+作物代碼 : 
